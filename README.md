@@ -44,6 +44,7 @@ My projects span multiple disciplines, but they all share one common goal: pushi
 I'm always open to collaboration and new challenges. Whether you're interested in blockchain development, music creation, or AI, feel free to reach out!
 
 📍 **GitHub:** [squidKid-deluxe](https://github.com/squidKid-deluxe)
+
 🎶 **Online Sequencer:** [My Music](https://onlinesequencer.net/members/100581?sort=1\&utm_source=chatgpt.com)
 
 Let's build something awesome together!
