@@ -4,6 +4,8 @@
 
 Hi! I'm SquidKid-Deluxe, a passionate developer, blockchain enthusiast, and music creator. I love exploring the intersection of technology, creativity, and innovation—whether it's through coding, decentralized applications, or composing digital soundscapes.
 
+For a list of some of my favorite projects, check out my website, [squidKid-deluxe.github.io](http://squidKid-deluxe.github.io).
+
 ## What I Do
 
 My projects span multiple disciplines, but they all share one common goal: pushing boundaries and crafting unique experiences. Some of my key areas of focus include:
@@ -45,7 +47,7 @@ I'm always open to collaboration and new challenges. Whether you're interested i
 
 📍 **GitHub:** [squidKid-deluxe](https://github.com/squidKid-deluxe)
 
-🎶 **Online Sequencer:** [My Music](https://onlinesequencer.net/members/100581?sort=1\&utm_source=chatgpt.com)
+🎶 **Online Sequencer:** [My Music](https://onlinesequencer.net/members/100581?sort=1)
 
 Let's build something awesome together!
 
