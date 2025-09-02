@@ -18,9 +18,9 @@ My projects span multiple disciplines, but they all share one common goal: pushi
 
 ### 🎮 **Blockchain & Decentralized Tech**
 
+- **QTradeX** – An AI-powered SDK featuring algorithmic trading, backtesting, deployment on 100+ exchanges, and multiple optimization engines.
 - **Reach Framework Tic-Tac-Toe** – A pay-to-play Tic-Tac-Toe game built with the Reach framework, integrating blockchain technology to create a new kind of gaming experience.
 - **Bitshares DEX User Experience** – A streamlined, server-side rendering framework aimed at enhancing decentralized exchange UI/UX.
-- **Bitshares Airdrop Guide** – A tutorial on how to airdrop a token on Bitshares.
 - **Honest Price Feeds for Bitshares** – Providing transparent and reliable price feeds for Bitshares Market Pegged Assets.
 
 ### 🎼 **Music & Audio Exploration**
@@ -32,22 +32,13 @@ My projects span multiple disciplines, but they all share one common goal: pushi
 * **AI Live Drumkit** – AI-powered drum accompaniment for live MIDI input, requiring no GPU.
 * **MIDI and Audio LED Visualizer** – A visualizer that syncs LED lighting with MIDI and audio inputs.
 
-### 🔧 **Coding & Open Source Contributions**
-
-- **BitoSuggest Sublime Text Plugin** – AI-powered code suggestions integrated into Sublime Text, making development smoother and smarter.
-- **Forecast Data Scraper** – A Python script that webscrapes forecast data and plots it.
-- **EchoBot** – A chatbot designed with JavaScript.
-- **Feed-Graph-JS** – A price feed plotting utility for the Bitshares blockchain, hosted on GitHub Pages.
-- **Py-linthesia** – A terminal-based minimalist piano-roll animation generator using MIDI files.
-- **Pixelator Live** – A webcam pixelation script for enhanced anonymity in streaming.
-
 ## Let's Connect!
 
 I'm always open to collaboration and new challenges. Whether you're interested in blockchain development, music creation, or AI, feel free to reach out!
 
-📍 **GitHub:** [squidKid-deluxe](https://github.com/squidKid-deluxe)
+ - [GitHub Discussions](https://github.com/squidKid-deluxe/squidKid-deluxe/discussions)
 
-🎶 **Online Sequencer:** [My Music](https://onlinesequencer.net/members/100581?sort=1)
+ - [Online Sequencer](https://onlinesequencer.net/members/100581?sort=1)
 
 Let's build something awesome together!
 
